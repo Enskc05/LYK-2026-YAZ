@@ -1,11 +1,7 @@
-# <Konu Adı> / <Topic Name>
+# Farklı Boyutlarda Rotasyon Fonksiyonları / Rotation Functions in Different Dimensions
 
-> Bu dosya `topics/_TEMPLATE/` şablonundan kopyalanmıştır. `<...>` yerlerini
-> doldurup bu iki satırı silin. / Copied from the `topics/_TEMPLATE/` skeleton;
-> fill in the `<...>` placeholders and delete these two lines.
-
-**TR:** <Bu konu neyi kapsıyor? 1-2 cümle.>
-**EN:** <What does this topic cover? 1-2 sentences.>
+**TR:** 2B ve 3B uzayda döndürme işlemleri, rotasyon matrisleri, Euler açıları ve quaternionlar.
+**EN:** Rotation in 2D and 3D space, rotation matrices, Euler angles and quaternions.
 
 ## Ne nereye? / What goes where?
 

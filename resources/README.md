@@ -13,12 +13,24 @@ in the wrong place under `topics/`. It can always be moved later.
 
 | Klasör / Folder | Buraya koy / Put here |
 |---|---|
+| [`cv/`](cv/) | Kendini tanıtan sunumlar (Ben Kimim) · Personal intro decks |
 | [`books/`](books/) | Konu bağımsız e-kitaplar · Topic-independent e-books |
 | [`guides/`](guides/) | Kurulum ve araç rehberleri (Git, Python, LaTeX…) · Setup and tool guides |
 | [`cheatsheets/`](cheatsheets/) | Kısa başvuru kağıtları · Quick reference sheets |
 | [`slides/`](slides/) | Konu dışı sunumlar, seminerler · Off-topic talks, seminars |
 | [`videos/`](videos/) | Video kayıtları ya da video bağlantı listeleri · Recordings or link lists |
 | [`misc/`](misc/) | Yeri belli olmayan her şey · Anything that fits nowhere else |
+
+## Tanıtımlar / Intro decks
+
+**TR:** Kendini tanıtan "Ben Kimim" sunumları [`cv/`](cv/) altında toplanır.
+Henüz bir konu klasörü olmayan tek seferlik sunumlar [`slides/`](slides/)
+altında durur; aynı konudan ikinci bir materyal gelirse `topics/` altına yeni
+bir konu açıp oraya taşırız.
+
+**EN:** Personal "Ben Kimim" intro decks live in [`cv/`](cv/). One-off talks with
+no matching topic folder sit in [`slides/`](slides/); once a second file shows up
+on the same subject, we open a folder under `topics/` and move them there.
 
 ## Bağlantılar / Links
 
